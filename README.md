@@ -1,15 +1,16 @@
-MAD PRACTICAL EXAM CODES
+### MAD PRACTICAL EXAM CODES
 
 
-Practical 4: Develop android application using View Text and Edit Text 
+### Practical 4: Develop android application using View Text and Edit Text 
 
 
 
- 1] Aim:  Develop android application using View Text and Edit Text.
+ ### 1] Aim: 
+ Develop android application using View Text and Edit Text.
  
 
 
-2] Resources Required:
+### 2] Resources Required:
 
 
 | Sr. No. | Name of Resource                                      | Specification | Quantity | Remarks                          |
@@ -17,7 +18,7 @@ Practical 4: Develop android application using View Text and Edit Text
 | 1       | Android enabled smartphone / Android version emulator | 4GB RAM      | 1        | Data cable is mandatory for emulator |
 
 
-3] Code:
+### 3] Code:
 
 
 activity_main.xml
@@ -107,18 +108,36 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 }
 ```
 
-Output:
+### 4]Output:
 
 <img width="337" height="723" alt="image" src="https://github.com/user-attachments/assets/eb58f01a-d2c4-4eaa-86fa-dbb39426deff" />
 
+<br>
 
-Conclusion:
-
+### 5] Conclusion:
 Using Text View and Edit Text helps create simple interactive apps where users can enter data and see the result instantly 
 
 
 
-Practical 7: Develop a program to implement Progress Bar 
+<br>
+<br>
+
+### Practical 7: Develop a program to implement Progress Bar 
+<br>
+
+### 1] Aim:
+Develop a program to implement Progress Bar 
+<br>
+<br>
+
+### 2] Resources Required:
+<br>
+
+| Sr. No. | Name of Resource                                      | Specification | Quantity | Remarks                          |
+|---------|------------------------------------------------------|--------------|----------|----------------------------------|
+| 1       | Android enabled smartphone / Android version emulator | 4GB RAM      | 1        | Data cable is mandatory for emulator |
+
+### 3] Code:
 
 
 
