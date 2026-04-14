@@ -198,7 +198,7 @@ public class MainActivity extends AppCompatActivity {
             new Thread(() -> {
                 while (progressStatus < 100) {
                     progressStatus += 1;
-
+                    
                     handle.post(() -> {
                         progressBar.setProgress(progressStatus);
                     });
